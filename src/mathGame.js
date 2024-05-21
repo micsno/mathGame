@@ -76,7 +76,7 @@ async function startGame() {
     }
 
     reader.close();
-    console.log(`Peli päättyi. Kerroit saavuttaa ${kerroin} tasoa.`);
+    console.log(`Peli päättyi. Kiitos pelaamisesta!`);
 }
 
 startGame();
